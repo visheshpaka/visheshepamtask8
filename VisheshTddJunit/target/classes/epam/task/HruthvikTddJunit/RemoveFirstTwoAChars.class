@@ -1,0 +1,11 @@
+Êþº¾   4 +  -epam/task/HruthvikTddJunit/RemoveFirstTwoAChars  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this /Lepam/task/HruthvikTddJunit/RemoveFirstTwoAChars; remove &(Ljava/lang/String;)Ljava/lang/String;  java/lang/StringBuilder
+     (Ljava/lang/String;)V
+    java/lang/String   charAt (I)C
+     deleteCharAt (I)Ljava/lang/StringBuilder;
+    ! " toString ()Ljava/lang/String; string Ljava/lang/String; sb Ljava/lang/StringBuilder; result StackMapTable 
+SourceFile RemoveFirstTwoAChars.java !               /     *· ±    
+                           Ó     S» Y+· M+¶ A  +¶ A  ,¶ W,¶ W§ #+¶ A  	,¶ W+¶ A  	,¶ W,¶ N-°    
+   .     	   	 # 
+ )  ,  6  <  F  L  Q     *    S       S # $  	 J % &  Q  ' $  (   
+ ü ,   )    *
